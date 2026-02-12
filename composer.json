@@ -1,0 +1,17 @@
+{
+    "name": "alex/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Alex\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexWork",
+            "email": "pavlov.aleksandr.1196@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "^12.51"
+    }
+}
