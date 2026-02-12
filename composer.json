@@ -1,6 +1,9 @@
 {
     "name": "alex/hexlet-php",
     "autoload": {
+	"files": [
+		"src/Runner.php"
+	],
         "psr-4": {
             "Alex\\HexletPhp\\": "src/"
         }
